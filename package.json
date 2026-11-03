@@ -1,5 +1,5 @@
 {
-  "name": "vitepress-linkcards",
+  "name": "vitepress-plugin-linkcards",
   "version": "3.4.1",
   "description": "A Vitepress plugin to generate a pretty linkcard with OGP.",
   "keywords": [
@@ -11,13 +11,13 @@
     "vitepress-plugin"
   ],
   "bugs": {
-    "url": "https://github.com/asumo-1xts/vitepress-linkcards"
+    "url": "https://github.com/asumo-1xts/vitepress-plugin-linkcards"
   },
   "license": "MIT",
   "author": "aSumo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asumo-1xts/vitepress-linkcards.git"
+    "url": "git+https://github.com/asumo-1xts/vitepress-plugin-linkcards.git"
   },
   "files": [
     "dist",

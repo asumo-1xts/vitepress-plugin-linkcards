@@ -59,7 +59,7 @@ export const generateCardDomFragment: CardDomRender = (data, options) => {
 
   return `<span style="display:block;">
   <a ${aa.rel} ${aa.target} ${aa.href} ${aa.title} ${style.a}>
-    <span class="vitepress-linkcards-container" ${inject(style.container)}>
+    <span class="vitepress-plugin-linkcards-container" ${inject(style.container)}>
       <span ${inject(style.texts)}>
         <span ${inject(style.title)}>
           ${escapeHTML(title)}

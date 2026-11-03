@@ -5,5 +5,5 @@
   "plugin": ["typedoc-theme-hierarchy"],
   "theme": "hierarchy",
   "tsconfig": "../tsconfig.json",
-  "name": "vitepress-linkcards"
+  "name": "vitepress-plugin-linkcards"
 }
