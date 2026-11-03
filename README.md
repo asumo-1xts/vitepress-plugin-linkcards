@@ -10,7 +10,7 @@ You can see: [A blog generated with this plugin](https://blog.asumo.dev/posts/10
 
 [![NPM Version](https://img.shields.io/npm/v/vitepress-plugin-linkcards?style=flat&logo=npm&logoColor=white&label=npmjs&color=%23CB3837)](https://www.npmjs.com/package/vitepress-plugin-linkcards)
 [![VitePress](https://img.shields.io/badge/For_VitePress-v1_|_v2-%235C73E7?logo=vitepress&logoColor=white)](https://vuejs.github.io/vitepress/v1]/)
-[![NPM License](https://img.shields.io/npm/l/vitepress-plugin-linkcards)](/LICENSE)
+[![MIT](https://img.shields.io/badge/License-MIT-green)](/LICENSE)
 
 [![Yarn](https://img.shields.io/badge/Built_with_Yarn-v4.9.2-%232C8EBB?logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![Oxc](https://img.shields.io/badge/Oxc-%2300F7F1?logo=oxc&logoColor=white&label=Lint%20and%20Format%20with&labelColor=gray)](https://oxc.rs/)
