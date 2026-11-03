@@ -6,7 +6,7 @@ vitepress-plugin-linkcards
 
 **A VitePress plugin to generate pretty linkcards with OGP.**
 
-You can see: [A blog generated with this plugin](https://asumoranda.com/posts/10-vitepress-linkcard.html) | [Docs by TypeDoc](https://asumo-1xts.github.io/vitepress-plugin-linkcards/)
+You can see: [A blog generated with this plugin](https://blog.asumo.dev/posts/10-vitepress-linkcards.html)
 
 [![NPM Version](https://img.shields.io/npm/v/vitepress-plugin-linkcards?style=flat&logo=npm&logoColor=white&label=npmjs&color=%23CB3837)](https://www.npmjs.com/package/vitepress-plugin-linkcards)
 [![VitePress](https://img.shields.io/badge/For_VitePress-v1_|_v2-%235C73E7?logo=vitepress&logoColor=white)](https://vuejs.github.io/vitepress/v1]/)
@@ -16,6 +16,12 @@ You can see: [A blog generated with this plugin](https://asumoranda.com/posts/10
 [![Oxc](https://img.shields.io/badge/Oxc-%2300F7F1?logo=oxc&logoColor=white&label=Lint%20and%20Format%20with&labelColor=gray)](https://oxc.rs/)
 
 <img src="https://github.com/asumo-1xts/vitepress-plugin-linkcards/blob/main/.github/screen.webp?raw=true" width=90% alt="How it shows" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 This plugin was forked from [markdown-it-link-to-card](https://github.com/luckrya/markdown-it-link-to-card).
 
